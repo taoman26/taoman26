@@ -42,5 +42,5 @@
 
 ## 📫 Contact
 
-- michihiko.mikami@gmail.com
+- taoman@bureau-mikami.jp
 - https://twitter.com/TAOMAN26
